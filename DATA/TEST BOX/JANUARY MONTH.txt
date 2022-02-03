@@ -1,0 +1,4 @@
+EMPID,ENAME,SNAME,location
+1,shiv,d,hyd
+2,tan,d,wgl
+

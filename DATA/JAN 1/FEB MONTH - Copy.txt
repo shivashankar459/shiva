@@ -1,0 +1,3 @@
+EMPID, NAME,SNAME location
+3,abhi,y,krm
+4,rrr,r,rr

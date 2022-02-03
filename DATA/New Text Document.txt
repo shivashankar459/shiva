@@ -1,0 +1,4 @@
+sn, rollno, fst name, lastname, location
+1,  23,shiv,mouni,hyd
+2,34,tan,div,wgl
+3,45,abhi,yuva,krm
